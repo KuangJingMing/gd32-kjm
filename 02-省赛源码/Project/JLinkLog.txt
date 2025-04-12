@@ -1,0 +1,64 @@
+T2FA4 000:073.944   SEGGER J-Link V7.82 Log File
+T2FA4 000:074.109   DLL Compiled: Oct 13 2022 13:32:51
+T2FA4 000:074.119   Logging started @ 2024-11-02 04:45
+T2FA4 000:074.127 - 74.131ms
+T2FA4 000:074.145 JLINK_SetWarnOutHandler(...)
+T2FA4 000:074.155 - 0.014ms
+T2FA4 000:074.165 JLINK_OpenEx(...)
+T2FA4 000:079.568   Firmware: J-Link ARM V8 compiled Jan 31 2018 18:34:52
+T2FA4 000:081.683   Firmware: J-Link ARM V8 compiled Jan 31 2018 18:34:52
+T2FA4 000:095.545   Hardware: V8.00
+T2FA4 000:095.570   S/N: 20080643
+T2FA4 000:095.585   OEM: SEGGER
+T2FA4 000:095.597   Feature(s): RDI,FlashDL,FlashBP,JFlash,GDBFull
+T2FA4 000:098.686   TELNET listener socket opened on port 19021
+T2FA4 000:098.853   WEBSRV WEBSRV_Init(): Starting webserver thread(s)
+T2FA4 000:099.048   WEBSRV Webserver running on local port 19080
+T2FA4 000:110.271 - 36.127ms returns "O.K."
+T2FA4 000:110.339 JLINK_GetEmuCaps()
+T2FA4 000:110.348 - 0.014ms returns 0xB9FF7BBF
+T2FA4 000:110.364 JLINK_TIF_GetAvailable(...)
+T2FA4 000:111.546 - 1.196ms
+T2FA4 000:111.578 JLINK_SetErrorOutHandler(...)
+T2FA4 000:111.587 - 0.013ms
+T2FA4 000:111.633 JLINK_ExecCommand("ProjectFile = "D:\GD32\01-GD32F407VET6\01-Examples\00-ª˘¥°∞Â‘ÿ µ—È\Project\JLinkSettings.ini"", ...). 
+T2FA4 000:123.181   Ref file found at: C:\Users\kjmsd\AppData\Local\Keil_v5\ARM\Segger\JLinkDevices.ref
+T2FA4 000:123.342   REF file references invalid XML file: C:\Program Files\SEGGER\JLink\JLinkDevices.xml
+T2FA4 000:123.545 - 11.920ms returns 0x00
+T2FA4 000:127.328 JLINK_ExecCommand("Device = GD32F407VE", ...). 
+T2FA4 000:130.805   Device "GD32F407VE" selected.
+T2FA4 000:131.272 - 3.923ms returns 0x00
+T2FA4 000:131.290 JLINK_ExecCommand("DisableConnectionTimeout", ...). 
+T2FA4 000:131.302 - 0.006ms returns 0x01
+T2FA4 000:131.313 JLINK_GetHardwareVersion()
+T2FA4 000:131.322 - 0.012ms returns 80000
+T2FA4 000:131.338 JLINK_GetDLLVersion()
+T2FA4 000:131.346 - 0.012ms returns 78200
+T2FA4 000:131.357 JLINK_GetOEMString(...)
+T2FA4 000:131.367 JLINK_GetFirmwareString(...)
+T2FA4 000:131.375 - 0.012ms
+T2FA4 000:140.954 JLINK_GetDLLVersion()
+T2FA4 000:140.985 - 0.035ms returns 78200
+T2FA4 000:140.996 JLINK_GetCompileDateTime()
+T2FA4 000:141.005 - 0.012ms
+T2FA4 000:143.552 JLINK_GetFirmwareString(...)
+T2FA4 000:143.570 - 0.023ms
+T2FA4 000:146.093 JLINK_GetHardwareVersion()
+T2FA4 000:146.111 - 0.023ms returns 80000
+T2FA4 000:148.677 JLINK_GetSN()
+T2FA4 000:148.699 - 0.026ms returns 20080643
+T2FA4 000:151.130 JLINK_GetOEMString(...)
+T2FA4 000:156.043 JLINK_TIF_Select(JLINKARM_TIF_JTAG)
+T2FA4 000:159.613 - 3.580ms returns 0x00
+T2FA4 000:159.632 JLINK_HasError()
+T2FA4 000:159.664 JLINK_SetSpeed(5000)
+T2FA4 000:159.734 - 0.077ms
+T2FA4 000:159.750 JLINK_GetIdData(pIdData)
+T2FA4 000:168.542   TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+T2FA4 000:173.070   Failed to identify target. Resetting via Reset pin and trying again.
+T2FA4 000:343.502   TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+T2FA4 000:344.565 - 184.827ms
+T2FA4 003:583.120 JLINK_Close()
+T2FA4 003:598.607 - 15.516ms
+T2FA4 003:598.641   
+T2FA4 003:598.650   Closed

@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "snr991x_timer.h": "c",
+        "snr991x_pwm.h": "c",
+        "system_hook.h": "c",
+        "sn_assert.h": "c",
+        "user_config.h": "c",
+        "snr991x_gpio.h": "c",
+        "snr991x_dpmu.h": "c"
+    }
+}

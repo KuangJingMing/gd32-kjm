@@ -1,0 +1,68 @@
+﻿  asr_uart_protocol.c
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\asr_uart_protocol.c(72,12): warning C4013: “strncpy”未定义；假设外部返回 int
+  firmware_read.c
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\firmware_read.c(28,56): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  hw_port_io.c
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\hw_port_io.c(16,37): warning C4133: “函数”: 从“char *”到“LPCWSTR”的类型不兼容
+  updater.c
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(420,39): warning C4018: “>”: 有符号/无符号不匹配
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(839,32): warning C4047: “return”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(844,16): warning C4047: “return”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(888,38): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(891,39): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(894,37): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(897,38): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(900,39): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(903,39): warning C4244: “=”: 从“WORD”转换到“unsigned char”，可能丢失数据
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(921,43): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(977,19): warning C4013: “vmup_close”未定义；假设外部返回 int
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(979,18): warning C4013: “vmup_init”未定义；假设外部返回 int
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(989,37): warning C4090: “函数”: 不同的“const”限定符
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1021,33): warning C4090: “函数”: 不同的“const”限定符
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1024,38): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1035,33): warning C4090: “函数”: 不同的“const”限定符
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1038,38): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1049,33): warning C4090: “函数”: 不同的“const”限定符
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1052,39): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1070,33): warning C4090: “函数”: 不同的“const”限定符
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1073,38): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1084,33): warning C4090: “函数”: 不同的“const”限定符
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1087,38): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1098,33): warning C4090: “函数”: 不同的“const”限定符
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1101,38): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1112,33): warning C4090: “函数”: 不同的“const”限定符
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1115,39): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1126,33): warning C4090: “函数”: 不同的“const”限定符
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1129,39): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1140,34): warning C4090: “函数”: 不同的“const”限定符
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1143,39): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1154,34): warning C4090: “函数”: 不同的“const”限定符
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1158,39): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1169,34): warning C4090: “函数”: 不同的“const”限定符
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1172,39): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1189,39): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1200,34): warning C4090: “函数”: 不同的“const”限定符
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1203,39): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1214,34): warning C4090: “函数”: 不同的“const”限定符
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1216,39): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1263,33): warning C4090: “函数”: 不同的“const”限定符
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1266,39): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1283,33): warning C4090: “函数”: 不同的“const”限定符
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1286,39): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1313,90): warning C4133: “函数”: 从“partitions_info_t *”到“unsigned char *”的类型不兼容
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1410,34): warning C4090: “函数”: 不同的“const”限定符
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1412,39): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(855,19): warning C4101: “NoCodeFlag”: 未引用的局部变量
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1457,28): warning C4013: “vmup_enter_ota_mode”未定义；假设外部返回 int
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1504,43): warning C4047: “函数”:“LPCCH”与“char **”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1504,40): warning C4024: “MultiByteToWideChar”: 形参和实参 3 的类型不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1504,57): warning C4133: “函数”: 从“char [100]”到“LPWSTR”的类型不兼容
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1505,30): warning C4047: “函数”:“char *”与“char **”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1505,27): warning C4024: “update_partitions”: 形参和实参 1 的类型不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1505,49): warning C4047: “函数”:“char *”与“char **”的间接级别不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1505,46): warning C4024: “update_partitions”: 形参和实参 3 的类型不同
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\updater.c(1502,11): warning C4101: “status”: 未引用的局部变量
+  正在生成代码...
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\asr_uart_protocol.c(46): warning C4716: “vmup_init”: 必须返回一个值
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\asr_uart_protocol.c(80): warning C4716: “vmup_close”: 必须返回一个值
+  ota_demo.vcxproj -> C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.exe

@@ -1,0 +1,22 @@
+C:\Users\Administrator\Documents\WeChat Files\wxid_e16cu5063qcs22\FileStorage\File\2020-11\1605323839475\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.dll
+C:\Users\Administrator\Documents\WeChat Files\wxid_e16cu5063qcs22\FileStorage\File\2020-11\1605323839475\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.pdb
+C:\Users\Ayni\Desktop\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.exe
+C:\Users\Ayni\Desktop\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.pdb
+D:\OneDrive\SNANER_Share\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\binmerge\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.exe
+D:\OneDrive\SNANER_Share\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\binmerge\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.pdb
+D:\OneDrive\SNANER_Share\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\binmerge_V1\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.exe
+D:\OneDrive\SNANER_Share\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\binmerge_V1\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.pdb
+C:\Users\SHOW\Desktop\test_uart\BinMerge_V4\BinMerge_V4\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.exe
+C:\Users\SHOW\Desktop\test_uart\BinMerge_V4\BinMerge_V4\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.pdb
+D:\OneDrive\SNANER_Share\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V5\BinMerge_V5\BinMerge_V5\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.exe
+D:\OneDrive\SNANER_Share\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V5\BinMerge_V5\BinMerge_V5\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.pdb
+D:\OneDrive\SNANER_Share\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V5-1_ALL\BinMerge_V5\BinMerge_V5\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.exe
+D:\OneDrive\SNANER_Share\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V5-1_ALL\BinMerge_V5\BinMerge_V5\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.pdb
+D:\OneDrive\SNANER_Share\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V5-1_for9813\BinMerge_V5\BinMerge_V5\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.exe
+D:\OneDrive\SNANER_Share\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V5-1_for9813\BinMerge_V5\BinMerge_V5\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.pdb
+D:\OneDrive\SNANER_WorkFiles\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V6_for9813_TEST\BinMerge_V5\BinMerge_V5\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.exe
+D:\OneDrive\SNANER_WorkFiles\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V6_for9813_TEST\BinMerge_V5\BinMerge_V5\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.pdb
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V11_for9912\BinMerge_V5\BinMerge_V5\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.exe
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V11_for9913\BinMerge_V5\BinMerge_V5\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.exe
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V12_for9912\BinMerge_V5\BinMerge_V5\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.exe
+C:\OneDrive\SNANER\2_手册&规格书\启英泰伦\CI110X芯片OTA升级相关资料\OTA工具开发资料\开发的软件\BinMerge_V17_for9912_ALL_3代平台_修复下载bug\BinMerge_V5\BinMerge_V5\ota_host_demo\prj\vs\ota_demo\x64\Debug\ota_demo.exe
